@@ -16,6 +16,21 @@ const config = {
   organizationName: "sklabs", // Usually your GitHub org/user name.
   projectName: "docs.sklabs.dev", // Usually your repo name.
 
+  plugins: [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          // /docs/oldDoc -> /docs/newDoc
+          {
+            to: "/docs/intro",
+            from: "/",
+          },
+        ],
+      },
+    ],
+  ],
+
   presets: [
     [
       "classic",
