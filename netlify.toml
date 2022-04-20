@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/"
+  to = "/docs/intro"
+  status = 301
+
+[[redirects]]
+  from = ""
+  to = "/docs/intro"
+  status = 301
