@@ -4,6 +4,7 @@
   status = 301
 
 [[redirects]]
-  from = ""
+  from = "/docs/livechat-apps/discord"
   to = "/docs/intro"
   status = 301
+
