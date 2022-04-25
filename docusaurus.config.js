@@ -31,8 +31,7 @@ const config = {
           routeBasePath: "/", // Serve the docs at the site's root
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/sklabsdev/docs.sklabs.dev/tree/master/docs/",
+          editUrl: "https://github.com/sklabsdev/docs.sklabs.dev/tree/master/",
         },
         // blog: {
         //   showReadingTime: true,
