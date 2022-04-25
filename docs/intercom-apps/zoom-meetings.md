@@ -11,13 +11,35 @@ The app requires you to have **Zoom account** which can be created [here](https:
 ## Initial setup
 
 1. Install the Zoom Meetings app from the [Intercom App Store](https://app.intercom.com/a/apps/q0amzsrn/appstore?app_package_code=zoom-meetings).
-2. You can simply invite customers to join a video meeting while you’re chatting to them. Just click the app icon in the Agent App Widget section, choose the **Zoom for LiveChat** app and **Connect:**
-3. Authorize **Zoom for LiveChat**.
-4. Once connected, you can start inviting your customers to join video meetings with you.
+2. From the Inbox Conversation section select the **Zoom Meetings** app icon:
+
+![](images/zoom1.png)
+
+3. Click on **Go to app settings** and connect with Intercom account:
+
+![](images/zoom2.png)
+
+4. Once connected, you can select your subscription type:
+
+![](images/zoom3.png)
 
 ## Starting a meeting
 
-## Join the meeting
+To invite your customer to join a video meeting just click the Create new meeting button or Use my Personal Meeting:
+
+![](images/zoom4.png)
+
+![](images/zoom5.png)
+
+Once clicked send, a meeting will be created and the invitation will be send to your customer:
+
+![](images/zoom6.png)
+
+## Joining the meeting
+
+Your customers now can join the meeting by clicking on Join meeting.
+
+![](images/zoom7.png)
 
 ## Feedback and feature request
 
