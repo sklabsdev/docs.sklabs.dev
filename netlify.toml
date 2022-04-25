@@ -3,8 +3,4 @@
   to = "/docs/intro"
   status = 301
 
-[[redirects]]
-  from = "/docs/livechat-apps/discord"
-  to = "/docs/intro"
-  status = 301
 
