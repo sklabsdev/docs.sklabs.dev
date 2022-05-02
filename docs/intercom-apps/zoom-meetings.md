@@ -41,6 +41,12 @@ Your customers now can join the meeting by clicking on Join meeting.
 
 ![](images/zoom7.png)
 
+## Removing the app
+
+1. Log in to your Zoom account and navigate to the Zoom App Marketplace.
+2. Click **Manage > Added Apps**.
+3. Click on the **Remove** button.
+
 ## Feedback and feature request
 
 You can send us your feedback and feature request at [hey@sklabs.dev](mailto:hey@sklabs.dev).
