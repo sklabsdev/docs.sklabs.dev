@@ -15,7 +15,7 @@ The app requires you to have **Zoom account** which can be created [here](https:
 
 ![](images/zoom1.png)
 
-3. Click on **Go to app settings** and connect with Intercom account:
+3. Click on **Go to app settings** and connect your Zoom account:
 
 ![](images/zoom2.png)
 
@@ -31,7 +31,7 @@ To invite your customer to join a video meeting just click the Create new meetin
 
 ![](images/zoom5.png)
 
-Once clicked send, a meeting will be created and the invitation will be send to your customer:
+Once you have clicked send, a meeting will be created and the invitation will be sent to your customer:
 
 ![](images/zoom6.png)
 
