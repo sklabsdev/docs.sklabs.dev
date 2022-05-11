@@ -25,7 +25,7 @@ The app requires you to have **Zoom account** which can be created [here](https:
 
 ## Starting a meeting
 
-To invite your customer to join a video meeting just click the Create new meeting button or Use my Personal Meeting:
+To invite your customer to join a video meeting just click the Create new meeting button or Use my Personal Meeting Room:
 
 ![](images/zoom4.png)
 
