@@ -119,20 +119,16 @@ const config = {
                 href: "https://www.livechat.com/marketplace/apps/ping/",
               },
               {
-                label: "GoToMeeting for LiveChat",
-                href: "https://www.livechat.com/marketplace/apps/gotomeeting-for-livechat/",
-              },
-              {
-                label: "GitHub for LiveChat",
-                href: "https://www.livechat.com/marketplace/apps/github-for-livechat/",
-              },
-              {
                 label: "Trello for LiveChat",
                 href: "https://www.livechat.com/marketplace/apps/trello-for-livechat/",
               },
               {
                 label: "PayPal",
                 href: "https://www.livechat.com/marketplace/apps/paypal/",
+              },
+              {
+                label: "Chat Summary",
+                href: "https://www.livechat.com/marketplace/apps/chat-summary/",
               },
             ],
           },

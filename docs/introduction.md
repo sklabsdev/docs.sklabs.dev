@@ -15,10 +15,9 @@ You can find specific instructions for:
 - [Discord](/livechat-apps/discord)
 - [Microsoft Teams](/livechat-apps/microsoft-teams)
 - [Ping](/livechat-apps/ping)
-- [GoToMeeting for LiveChat](/livechat-apps/gotomeeting-for-livechat)
-- [GitHub for LiveChat](/livechat-apps/github-for-livechat)
 - [Trello for LiveChat](/livechat-apps/trello-for-livechat)
 - [PayPal](/livechat-apps/paypal)
+- [Chat Summary](/livechat-apps/chat-summary)
 
 ## Intercom Apps
 
