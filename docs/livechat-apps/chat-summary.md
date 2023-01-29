@@ -14,7 +14,7 @@ Welcome to the documentation for our LiveChat summary generation app, which allo
 2. In the LiveChat Agent Application, go to **Settings > Manage apps > Chat Summary**.
 3. Authorize the application.
 4. For start you will get **200k** [tokens](#tokens) completely **free** from us!
-5. You are app is ready to go!
+5. Your app is ready to go!
 
 ![](images/cs1.png)
 
