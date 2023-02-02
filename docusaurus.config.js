@@ -119,10 +119,6 @@ const config = {
                 href: "https://www.livechat.com/marketplace/apps/ping/",
               },
               {
-                label: "Trello for LiveChat",
-                href: "https://www.livechat.com/marketplace/apps/trello-for-livechat/",
-              },
-              {
                 label: "PayPal",
                 href: "https://www.livechat.com/marketplace/apps/paypal/",
               },

@@ -15,7 +15,6 @@ You can find specific instructions for:
 - [Discord](/livechat-apps/discord)
 - [Microsoft Teams](/livechat-apps/microsoft-teams)
 - [Ping](/livechat-apps/ping)
-- [Trello for LiveChat](/livechat-apps/trello-for-livechat)
 - [PayPal](/livechat-apps/paypal)
 - [Chat Summary](/livechat-apps/chat-summary)
 
