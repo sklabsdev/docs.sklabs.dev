@@ -109,4 +109,4 @@ Summary generated:
 
 ## Feedback and feature request
 
-You can send us your feedback and feature requests at [hey@sklabs.dev](mailto:hey@sklabs.dev).
+You can send us your feedback and feature requests at [support@sklabs.dev](mailto:support@sklabs.dev).

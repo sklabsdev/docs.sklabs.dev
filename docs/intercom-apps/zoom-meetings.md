@@ -49,4 +49,4 @@ Your customers now can join the meeting by clicking on Join meeting.
 
 ## Feedback and feature request
 
-You can send us your feedback and feature request at [hey@sklabs.dev](mailto:hey@sklabs.dev).
+You can send us your feedback and feature request at [support@sklabs.dev](mailto:support@sklabs.dev).

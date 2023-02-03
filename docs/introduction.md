@@ -26,4 +26,4 @@ You can find specific instructions for:
 
 ## Support
 
-We are here to help. If you're experiencing any issue with our products please email us at [hey@sklabs.dev](mailto:hey@sklabs.dev) and we will do our best to respond within 24 hours.
+We are here to help. If you're experiencing any issue with our products please email us at [support@sklabs.dev](mailto:support@sklabs.dev) and we will do our best to respond within 24 hours.
