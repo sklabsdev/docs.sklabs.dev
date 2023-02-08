@@ -126,6 +126,10 @@ const config = {
                 label: "Chat Summary",
                 href: "https://www.livechat.com/marketplace/apps/chat-summary/",
               },
+              {
+                label: "Chat Assistant",
+                href: "https://www.livechat.com/marketplace/apps/chat-assistant/",
+              },
             ],
           },
           {

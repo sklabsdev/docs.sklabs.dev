@@ -11,12 +11,13 @@ Please find the documentations and the tutorials for our integrations with **Liv
 
 You can find specific instructions for:
 
+- [Chat Summary](/livechat-apps/chat-summary)
+- [Chat Assistant](/livechat-apps/chat-assistant)
 - [Zoom for LiveChat](/livechat-apps/zoom-for-livechat)
 - [Discord](/livechat-apps/discord)
 - [Microsoft Teams](/livechat-apps/microsoft-teams)
 - [Ping](/livechat-apps/ping)
 - [PayPal](/livechat-apps/paypal)
-- [Chat Summary](/livechat-apps/chat-summary)
 
 ## Intercom Apps
 
