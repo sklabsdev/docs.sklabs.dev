@@ -15,7 +15,7 @@ Welcome to the documentation for our LiveChat summary generation app, which allo
 1. Install the app from <a href="https://www.livechat.com/marketplace/apps/chat-summary" target="_blank">the LiveChat Marketplace</a>
 2. In the LiveChat Agent Application, go to **Settings > Manage apps > Chat Summary**.
 3. Authorize the application.
-4. For start you will get **200k** [tokens](#tokens) completely **free** from us!
+4. For start you will get **10k** [tokens](#tokens) completely **free** from us!
 5. Your app is ready to go!
 
 ![](images/cs1.png)
@@ -56,7 +56,7 @@ Additionally to the transcript tokens are also used to the bullet points summary
 
 ## Pricing
 
-The app is free to use, and with the initial installation, you will receive 200k tokens. Chat transcripts vary in length, so it's hard to calculate the average usage for your account. However, that amount of tokens should give you and your team a nice overview of the app.
+The app is free to use, and with the initial installation, you will receive 10k tokens. Chat transcripts vary in length, so it's hard to calculate the average usage for your account. However, that amount of tokens should give you and your team a nice overview of the app.
 
 When your tokens will expire, you can top-up your account using In-App Upgrades from the Settings section. We will also send you an email reminding you that your tokens are about to expire.
 
