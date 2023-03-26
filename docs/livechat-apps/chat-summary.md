@@ -105,7 +105,23 @@ Summary generated:
 
 - Token count: 279
 
+## Widget
+
+The Chat Summary app creates a widget in the LiveChat interface that allows you to quickly generate summaries from your transcripts.
+
 ![](images/cs4.png)
+
+You can also find a detailed summary in the Details section of each chat for a quick overview of the key points discussed.
+
+![](images/cs5.png)
+
+## Chat sentiment
+
+In addition to generating summaries from your LiveChat transcripts, the Chat Summary app can also analyze the sentiment of each chat. By using natural language processing technology, the app is able to determine whether a chat is **neutral**, **positive**, or **negative** in tone. This information can be incredibly valuable for understanding the overall sentiment of your customer interactions, and for identifying areas where your team may need additional training or support. With this feature, you can quickly gain insights into the sentiment of your chats without having to manually review each transcript, saving you time and effort in the process.
+
+## Keywords
+
+In addition to generating summaries and analyzing chat sentiment, the Chat Summary app also has the ability to generate three keywords that describe the content of each chat transcript. This feature uses advanced natural language processing techniques to analyze the chat and identify the most relevant keywords. These keywords can be incredibly useful for quickly understanding the main topics or themes of each conversation, and for identifying patterns or trends in your customer interactions. By providing this feature, the Chat Summary app enables you to gain valuable insights into the content of your chats in a fraction of the time it would take to review them manually.
 
 ## Privacy
 
