@@ -64,7 +64,15 @@ When your tokens will expire, you can top-up your account using In-App Upgrades 
 
 ## Settings
 
-By default, the summary is auto-generated when a chat is archived and it's available from the Details section or the app itself. You can always change that setting and disable it, and then manually generate it from the Chats or Archives section from the Details panel by clicking Generate Summary.
+- Auto generate summaries
+
+By default, the summary is auto-generated when a chat is archived, and it's available from the Details section or within the app itself. You can always change this setting to disable it, and then manually generate the summary from the Chats or Archives section within the Details panel by clicking 'Generate Summary'.
+
+- Generate summaries for tagged chats
+
+You can specify tags that are required for auto-generation. Multiple tags can be selected. Please note, this option only works when the auto-generation setting is enabled. Tagging needs to occur while the chat is active.
+
+![](images/cs6.png)
 
 ## Reports
 
