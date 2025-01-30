@@ -15,52 +15,9 @@ Welcome to the documentation for our LiveChat summary generation app, which allo
 1. Install the app from <a href="https://www.livechat.com/marketplace/apps/chat-summary" target="_blank">the LiveChat Marketplace</a>
 2. In the LiveChat Agent Application, go to **Settings > Manage apps > Chat Summary**.
 3. Authorize the application.
-4. For start you will get **10k** [tokens](#tokens) completely **free** from us!
-5. Your app is ready to go!
+4. Your app is ready to go!
 
 ![](images/cs1.png)
-
-## Tokens
-
-OpenAI's natural language processing technology uses a process called tokenization to break down chat transcripts into individual units of meaning, called tokens. These tokens are then analyzed and used to generate summary bullet points. The number of tokens used in the summary can be adjusted to fit the desired length and level of detail of the summary.
-
-You can think of tokens as pieces of words, where 1,000 tokens is about 750 words.
-
-Here are a few examples of chat transcripts and the estimated number of tokens needed to accurately summarize them:
-
-```
-Customer: Hi, can I get a refund?
-Agent: Sure, I can process that for you.
-Customer: Great, thank you.
-```
-
-- Characters: 103
-- Token count: 30
-
-```
-Customer: Hi, I have a question about my order.
-Agent: Sure, what's your order number?
-Customer: It's 123456.
-Agent: Let me check that for you.
-Customer: I also want to know if I can get a different color.
-Agent: Sure, we can arrange that for you.
-Customer: Thanks, that would be great.
-```
-
-- Characters: 286
-- Token count: 79
-
-As you can see, in the first example, the conversation was short and simple, requiring only 30 tokens to accurately summarize the main points. In the second example, the conversation was longer and more complex, requiring 79 tokens to fully capture the key points.
-
-Additionally to the transcript tokens are also used to the bullet points summary.
-
-## Pricing
-
-The app is free to use, and with the initial installation, you will receive 10k tokens. Chat transcripts vary in length, so it's hard to calculate the average usage for your account. However, that amount of tokens should give you and your team a nice overview of the app.
-
-When your tokens will expire, you can top-up your account using In-App Upgrades from the Settings section. We will also send you an email reminding you that your tokens are about to expire.
-
-![](images/cs2.png)
 
 ## Settings
 
@@ -110,8 +67,6 @@ Summary generated:
 - Visitor provides name and last four digits of credit card
 - Account is successfully unlocked
 ```
-
-- Token count: 279
 
 ## Widget
 
