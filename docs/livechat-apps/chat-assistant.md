@@ -95,13 +95,13 @@ When your tokens will expire, you can top-up your account using In-App Upgrades 
 
 ## Privacy
 
-At **SKLabs**, we use **OpenAI** to power some of our products and services, but it's important to note that **OpenAI** does not have the ability to access, store, or share user data. All data processed by **OpenAI** is used solely for the purpose of generating responses to user queries and is immediately discarded after use. This means that any information you share with us remains under our control and is subject to our privacy policy.
+Chat Assistant sends the text needed to fulfil a user's request to OpenAI through its API. SKlabs does not use customer content to train AI models and does not opt in to sharing API content with OpenAI for model training. OpenAI states that API data is not used to train its models unless a customer explicitly opts in.
 
-Our privacy policy outlines the types of information we collect, how it is used, and with whom it may be shared. We will not sell or rent your personal information to third parties and will only use it to provide and improve our products and services, or as otherwise required by law.
+Requests are configured not to create provider-side application state. Under OpenAI's standard API controls, prompts and responses may nevertheless be retained in abuse-monitoring logs for up to 30 days, unless OpenAI must retain them longer for legal or safety reasons or different approved data controls apply. See [OpenAI's API data controls](https://platform.openai.com/docs/guides/your-data) for details.
 
-In addition, we use industry-standard encryption protocols and have implemented strict access controls to ensure the security of your data. We regularly review and update our privacy and security measures to ensure that we are in compliance with applicable laws and regulations, and that we are providing our users with the best possible protection.
+SKlabs encrypts stored Chat Assistant input and output at rest, and data is encrypted in transit using TLS. The product does not currently provide automated PII masking or anonymisation, so customers should avoid submitting personal or sensitive information that is not necessary for the request.
 
-If you have any questions or concerns about our privacy policy, please don't hesitate to reach out to us. Our support team is always here to help and will be happy to address any concerns you may have.
+For further details, including retention, data-subject rights, and international transfers, see the [SKlabs Privacy Policy](https://sklabs.dev/privacy-policy). Questions or deletion requests can be sent to [support@sklabs.dev](mailto:support@sklabs.dev).
 
 ## Feedback and feature request
 
