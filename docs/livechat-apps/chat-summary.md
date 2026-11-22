@@ -88,13 +88,9 @@ In addition to generating summaries and analyzing chat sentiment, the Chat Summa
 
 ## Privacy
 
-At **SKLabs**, we use **OpenAI** to power some of our products and services, but it's important to note that **OpenAI** does not have the ability to access, store, or share user data. All data processed by **OpenAI** is used solely for the purpose of generating responses to user queries and is immediately discarded after use. This means that any information you share with us remains under our control and is subject to our privacy policy.
+Chat Summary uses **OpenAI** to generate its results, so chat content is sent to OpenAI. OpenAI does not use this data to train its models, and may keep it for up to 30 days to monitor for abuse before deleting it.
 
-Our privacy policy outlines the types of information we collect, how it is used, and with whom it may be shared. We will not sell or rent your personal information to third parties and will only use it to provide and improve our products and services, or as otherwise required by law.
-
-In addition, we use industry-standard encryption protocols and have implemented strict access controls to ensure the security of your data. We regularly review and update our privacy and security measures to ensure that we are in compliance with applicable laws and regulations, and that we are providing our users with the best possible protection.
-
-If you have any questions or concerns about our privacy policy, please don't hesitate to reach out to us. Our support team is always here to help and will be happy to address any concerns you may have.
+We store the summaries and insights it creates, encrypted, for as long as the app is installed. Chat transcripts are kept for 30 days after summarising, then deleted. When you uninstall the app, this data is permanently deleted after 14 days. See our [privacy policy](https://sklabs.dev/privacy-policy) for details, or email [support@sklabs.dev](mailto:support@sklabs.dev) with any questions.
 
 ## Feedback and feature request
 
