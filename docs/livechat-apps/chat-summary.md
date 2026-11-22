@@ -90,7 +90,7 @@ In addition to generating summaries and analyzing chat sentiment, the Chat Summa
 
 Chat Summary uses **OpenAI** to generate its results, so chat content is sent to OpenAI. OpenAI does not use this data to train its models, and may keep it for up to 30 days to monitor for abuse before deleting it.
 
-We store the chat transcripts it summarises and the summaries and insights it creates, encrypted, for as long as the app is installed. When you uninstall the app, this data is permanently deleted after 14 days. See our [privacy policy](https://sklabs.dev/privacy-policy) for details, or email [support@sklabs.dev](mailto:support@sklabs.dev) with any questions.
+We store the summaries and insights it creates, encrypted, for as long as the app is installed. Chat transcripts are kept for 30 days after summarising, then deleted. When you uninstall the app, this data is permanently deleted after 14 days. See our [privacy policy](https://sklabs.dev/privacy-policy) for details, or email [support@sklabs.dev](mailto:support@sklabs.dev) with any questions.
 
 ## Feedback and feature request
 
